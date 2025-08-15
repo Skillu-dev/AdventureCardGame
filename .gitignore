@@ -1,0 +1,25 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# VS/IDE
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Bazy, cache
+*.opendb
+*.pidb
+*.mdb
+*.pdb
+*.VC.db
+
+# Inne
+.sysinfo.txt
